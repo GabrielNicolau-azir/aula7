@@ -1,0 +1,18 @@
+body{
+    background-color: pink;
+
+}
+h2{
+    color: rgb(221, 112, 207);
+    background-color: rgb(218, 65, 90);
+   
+}
+label{
+    color: blueviolet;
+}
+input{
+    color: brown ;
+}
+header{
+    background-color:rgb(143, 221, 112);
+}
